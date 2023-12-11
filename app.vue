@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <span>根组件</span>
+    <nuxt-page />
   </div>
 </template>
